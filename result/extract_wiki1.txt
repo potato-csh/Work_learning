@@ -1,0 +1,1773 @@
+
+A database is an organized collection of data, generally stored and accessed electronically from a computer system
+database
+databases ,
+===============================================
+GitHub, Inc
+github
+mergers and acquisitions ,git ,version control ,
+===============================================
+Teamwork is the collaborative effort of a group to achieve a common goal or to complete a task in the most effective and efficient way
+teamwork
+efficient ,collaboration ,organizational culture ,collaborative ,
+===============================================
+Scala is a producer of multimedia software
+scala
+signage ,
+===============================================
+Open source is source code that is made freely available for possible modification and redistribution
+open source
+code ,publishing ,business model ,codes ,open access ,academic publishing ,
+===============================================
+A simulation is the imitation of the operation of a real-world process or system over time
+simulations
+economics ,
+===============================================
+Documentation is any communicable material that is used to describe, explain or instruct regarding some attributes of an object, system or procedure, such as its parts, assembly, installation, maintenance and use
+documentation
+technical communication ,materials ,
+===============================================
+Scalability is the property of a system to handle a growing amount of work by adding resources to the system
+scalability
+software quality ,computer architecture ,
+===============================================
+Infrastructure is the set of fundamental facilities and systems that support the sustainable functionality of households and firms
+infrastructure
+construction ,
+===============================================
+Software documentation is written text or illustration that accompanies computer software or is embedded in the source code
+software documentation
+code ,technical communication ,codes ,
+===============================================
+Validation is the process of establishing documentary evidence demonstrating that a procedure, process, or activity carried out in testing and then production maintains the desired level of compliance at all stages
+validation
+pharmaceutical industry ,production ,statistics ,clinical data management ,clinical research ,
+===============================================
+Content management (CM) is a set of processes and technologies that supports the collection, managing, and publishing of information in any form or medium
+content management
+technical communication ,cms ,data management ,
+===============================================
+Salesforce.com, Inc
+salesforce
+cscs ,cloud applications ,com ,crm software ,
+===============================================
+The outcome of business operations is the harvesting of value from assets owned by a business
+business operations
+business process ,
+===============================================
+Flex Ltd
+flex
+tax ,investments ,ipo ,
+===============================================
+An  elixir is a sweet liquid used for medical purposes, to be taken orally and intended to cure one's illness
+elixir
+forms ,ddd ,
+===============================================
+Entrepreneurship is the creation or extraction of value
+entrepreneurship
+extractions ,business model ,small business ,
+===============================================
+Sybase, Inc
+sybase
+ssas ,
+===============================================
+Splunk Inc
+splunk
+cscs ,system administration ,proprietary software ,computer security ,data security ,
+===============================================
+Usability can be described as the capacity of a system to provide a condition for its users to perform the tasks safely, effectively, and efficiently while enjoying the experience
+usability
+technical communication ,software quality ,information architecture ,
+===============================================
+A business analyst (BA) is a person who analyzes an organization or business domain (real or hypothetical) and documents its business, processes, or systems, assessing the business model or its integration with technology
+business analyst
+systems analysis ,business analysis ,business model ,
+===============================================
+Tutoring is academic support provided by a master teacher; someone with deep knowledge or defined expertise in a particular subject or set of subjects
+tutoring
+teaching ,
+===============================================
+Efficiency is the (often measurable) ability to avoid wasting materials, energy, efforts, money, and time in doing something or in producing a desired result
+efficiency
+heat transfer ,materials ,waste management ,
+===============================================
+Coaching is a form of development in which an experienced person, called a coach, supports a learner or client in achieving a specific personal or professional goal by providing training and guidance
+coaching
+training ,educational psychology ,
+===============================================
+The Vintorez Special Sniper Rifle (Russian: Винто́вка Сна́йперская Специа́льная, tr
+vss
+russian ,firearms ,
+===============================================
+An XML schema is a description of a type of XML document, typically expressed in terms of constraints on the structure and content of documents of that type, above and beyond the basic syntactical constraints imposed by XML itself
+xml schema
+xml ,iso standards ,
+===============================================
+Cluster analysis or clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense) to each other than to those in other groups (clusters)
+cluster analysis
+cluster ,data mining ,
+===============================================
+Kendo (剣道, Kendō, lit
+kendo
+japanese ,
+===============================================
+Flux describes any effect that appears to pass or travel (whether it actually moves or not) through a surface or substance
+flux
+travel ,rates ,physicals ,
+===============================================
+Francis Albert Sinatra (/sɪˈnɑːtrə/; December 12, 1915 – May 14, 1998) was an American singer, actor, and producer who was one of the most popular and influential musical artists of the 20th century
+sinatra
+swings ,lvs ,swing ,
+===============================================
+Quality control (QC) is a process by which entities review the quality of all factors involved in production
+qc
+reviews ,quality management ,spc ,
+===============================================
+Informatics is the study of computational systems, especially those for data storage and retrieval
+informatics
+cfos ,cognitive science ,artificial intelligence ,
+===============================================
+Six Sigma (6σ) is a set of techniques and tools for process improvement
+six sigma
+qc tools ,process improvement ,
+===============================================
+Logistics is generally the detailed organization and implementation of a complex operation
+logistics
+systems engineering ,detailed organization ,
+===============================================
+Liferay, Inc., is an open-source company that provides free documentation and paid professional service to users of its software
+liferay
+professional services ,programming languages ,
+===============================================
+A library is a curated collection of sources of information and similar resources, selected by experts and made accessible to a defined community for reference or borrowing
+library
+libraries ,collections ,library science ,
+===============================================
+Data acquisition is the process of sampling signals that measure real world physical conditions and converting the resulting samples into digital numeric values that can be manipulated by a computer
+data acquisition
+signal processing ,
+===============================================
+Publishing is the activity of making information, literature, music, software and other content available to the public for sale or for free
+publishing
+mmis ,sales ,
+===============================================
+Interaction design, often abbreviated as IxD, is "the practice of designing interactive digital products, environments, systems, and services."[1]:xxxi,1 Beyond the digital aspect, interaction design is also useful when creating physical (non-digital) products, exploring how a user might interact with it
+interaction design
+technical communication ,design ,designs ,usability ,
+===============================================
+Load testing is the process of putting demand on a software system and measuring its response.
+load testing
+quality assurance ,software testing ,
+===============================================
+Integrity is the practice of being honest and showing a consistent and uncompromising adherence to strong moral and ethical principles and values
+integrity
+evaluations ,
+===============================================
+Forecasting is the process of making predictions based on past and present data and most commonly by analysis of trends
+forecasting
+supply chain management ,
+===============================================
+Xilinx, Inc
+xilinx
+semiconductors ,ipo ,
+===============================================
+Indexing in reference to motion is moving (or being moved) into a new position or location quickly and easily but also precisely
+indexing
+mechanical engineering ,
+===============================================
+Creative problem-solving (CPS)[1] is the mental process of searching for an original and previously unknown solution to a problem
+creative problem solving
+design ,designs ,innovation ,creativity ,psm ,
+===============================================
+A person responsible for providing various kinds of administrative assistance is called the Administrative Assistant (Admin Assistant) or also sometimes an Administrative Support Specialist
+administrative assistant
+administrative assistance ,office administration ,
+===============================================
+Fundraising or fund-raising is the process of seeking and gathering voluntary financial contributions by engaging individuals, businesses, charitable foundations, or governmental agencies
+fundraising
+foundations ,philanthropy ,financial economics ,foundation ,
+===============================================
+Metadata is "data that provides information about other data"
+metadata
+technical communication ,knowledge representation ,business intelligence ,data management ,records management ,
+===============================================
+Creativity is a phenomenon whereby something somehow new and somehow valuable is formed
+creativity
+designs ,educational psychology ,cognition ,philosophy ,problem solving skills ,sts ,design ,innovation ,product management ,
+===============================================
+Test data is data which has been specifically identified for use in tests, typically of a computer program
+test data
+software testing ,
+===============================================
+Test management most commonly refers to the activity of managing a testing process
+test management
+testing process ,software testing ,
+===============================================
+A/B testing (also known as bucket testing or split-run testing) is a user experience research methodology
+a/b testing
+market research ,testing ,software testing ,
+===============================================
+A principle is a proposition or value that is a guide for behavior or evaluation
+principle
+guides ,metaphysics ,
+===============================================
+Cloudera, Inc
+cloudera
+hadoop ,bdc ,big data ,ipo ,
+===============================================
+An incident is an event that could lead to loss of, or disruption to, an organization's operations, services or functions
+incident management
+operations ,organization ,itil ,
+===============================================
+PeopleSoft, Inc
+peoplesoft
+cscs ,erp software ,crm software ,
+===============================================
+An audit is an "independent examination of financial information of any entity, whether profit oriented or not, irrespective of its size or legal form when such an examination is conducted with a view to express an opinion thereon.” [1] Auditing also attempts to ensure that the books of accounts are properly maintained by the concern as required by law
+audit
+auditing ,
+===============================================
+A crucible is a ceramic or metal container in which metals or other substances may be melted or subjected to very high temperatures
+crucible
+laboratory ,laboratory equipment ,analytical chemistry ,
+===============================================
+Computerized batch processing is the running of "jobs that can run without end user interaction, or can be scheduled to run as resources permit."[1]
+batch processing
+user interaction ,job scheduling ,
+===============================================
+Harley Edward Streten[2] (born 5 November 1991), known professionally as Flume, is an Australian musician, DJ and record producer
+flume
+arp ,adobe experience manager ,ableton live ,musicians ,
+===============================================
+Ansys, Inc
+ansys
+cfd ,
+===============================================
+Shopify Inc
+shopify
+web applications ,spc ,pos ,
+===============================================
+Static analysis, static projection, or static scoring is a simplified analysis wherein the effect of an immediate change to a system is calculated without regard to the longer-term response of the system to that change
+static analysis
+forecasting ,statistics ,moses ,analysis ,public finance ,
+===============================================
+Project engineering includes all parts of the design of manufacturing or processing facilities, either new or modifications to and expansions of existing facilities
+project engineering
+project management ,
+===============================================
+In data analysis, anomaly detection (also outlier detection)[1] is the identification of rare items, events or observations which raise suspicions by differing significantly from the majority of the data
+anomaly detection
+data mining ,machine learning ,data security ,
+===============================================
+Certified Ethical Hacker (CEH) is a qualification obtained by demonstrating knowledge of assessing the security of computer systems by looking for weaknesses and vulnerabilities in target systems, using the same knowledge and tools as a malicious hacker, but in a lawful and legitimate manner to assess the security posture of a target system
+ceh
+hacking ,computer security ,
+===============================================
+A twig or stick is a thin branch of a tree or bush
+twig
+building materials ,botany ,trees ,
+===============================================
+A software design description (a.k.a
+software design
+ieee standards ,software documentation ,
+===============================================
+Digital Imaging and Communications in Medicine (DICOM) is the standard for the communication and management of medical imaging information and related data
+dicom
+medical imaging ,digital imaging ,
+===============================================
+Michael Rubens  Bloomberg (born February 14, 1942) is an American businessman, politician, philanthropist, and author
+bloomberg
+arp ,jaws ,asa ,commercials ,
+===============================================
+Spock is a character in the Star Trek media franchise
+spock
+hybrids ,character ,characters ,
+===============================================
+Hybris is a German company that sells enterprise Omnichannel and product content management (PCM) software
+hybris
+scss ,ssas ,
+===============================================
+In statistics and applications of statistics, normalization can have a range of meanings
+normalization
+mathematics ,statistics ,
+===============================================
+Real-time data (RTD) is information that is delivered immediately after collection
+real-time data
+rational team concert ,
+===============================================
+Consul (abbrev
+consul
+military ,arts ,titles ,art ,government ,
+===============================================
+Enterprise content management (ECM) extends the concept of content management by adding a timeline for each content item and, possibly, enforcing processes for its creation, approval and distribution
+enterprise content management
+eai ,enterprise architecture ,cms ,content management ,
+===============================================
+Asset management refers to a systematic approach to the governance and realization of value from the things that a group or entity is responsible for, over their whole life cycles
+asset management
+whole life ,valuation ,management accounting ,systematic approach ,finance ,
+===============================================
+Product marketing is a process of promoting and selling a product to a customer
+product marketing
+product management ,selling ,
+===============================================
+An intrusion detection system (IDS)[1] is a device or software application that monitors a network or systems for malicious activity or policy violations
+ids
+policy ,system administration ,computer security ,
+===============================================
+Computer animation is the process used for digitally generating animated images
+computer animation
+computer graphics ,
+===============================================
+In general, bootstrapping usually refers to a self-starting process that is supposed to continue without external input.
+bootstrapping
+american english ,
+===============================================
+Unsupervised learning (UL) is a type of algorithm that learns patterns from untagged data
+unsupervised learning
+ul ,machine learning ,
+===============================================
+Salesforce.com, Inc
+salesforce
+cscs ,cloud applications ,com ,crm software ,
+===============================================
+Sound design is the art and practice of creating sound tracks for a variety of needs
+sound design
+designs ,design ,
+===============================================
+Intelligent Systems Co., Ltd
+intelligent systems
+video game development ,
+===============================================
+Failure mode and effects analysis (FMEA; often written with "failure modes" in plural) is the process of reviewing as many components, assemblies, and subsystems as possible to identify potential failure modes in a system and their causes and effects
+fmea
+systems analysis ,reliability analysis ,failure modes ,lean manufacturing ,reliability engineering ,
+===============================================
+Ixia was a public company operating in around 25 countries until acquisition by Keysight Technologies Inc
+ixia
+mergers and acquisitions ,
+===============================================
+Hospitality is the relationship between a guest and a host, where in the host receives the guest with goodwill, including the reception and entertainment of guests, visitors, or strangers
+hospitality
+hospitality industry ,etiquette ,cultural anthropology ,
+===============================================
+Quality engineering is the discipline of engineering concerned with the principles and practice of product and service quality assurance and control
+quality engineering
+systems engineering ,software engineering ,knowledge management ,enterprise architecture ,engineering ,software quality ,
+===============================================
+Inventory control or stock control can be broadly defined as "the activity of checking a shop’s stock."[1] It is the process of ensuring that the right amount of supply is available within a business
+inventory control
+lean manufacturing ,
+===============================================
+Master data represents "data about the business entities that provide context for business transactions"
+master data
+business transactions ,data management ,
+===============================================
+Worst-case circuit analysis (WCCA or WCA) is a cost-effective means of screening a design to ensure with a high degree of confidence that potential defects and deficiencies are identified and eliminated prior to and during test, production, and delivery
+circuit analysis
+reliability analysis ,
+===============================================
+Once the strategic plan is in place, retail managers turn to the more managerial aspects of planning
+retail marketing
+planning ,marketing ,plannings ,
+===============================================
+NetApp, Inc
+netapp
+cscs ,san ,ipo ,
+===============================================
+Screening, in medicine, is a strategy used to look for as-yet-unrecognised conditions or risk markers
+screening
+medical terminology ,risk ,prevention ,strategy ,
+===============================================
+Problem management is the process responsible for managing the lifecycle of all problems that happen or could happen in an IT service
+problem management
+itil ,problem solving ,
+===============================================
+In computing, bandwidth is the maximum rate of data transfer across a given path
+bandwidth
+information theory ,rates ,network performance ,
+===============================================
+Front-End Engineering (FEE), or Front-End Engineering Design (FEED), is an engineering design approach used to control project expenses and thoroughly plan a project before a fix bid quote is submitted
+front-end engineering
+cost engineering ,engineering design ,
+===============================================
+En ingénierie logicielle, les pratiques agiles mettent en avant la collaboration entre des équipes auto-organisées et pluridisciplinaires et leurs clients[1]
+agile
+gestion de projet ,
+===============================================
+An underscore, also called  an underline, low line, or low dash, is a line drawn under a segment of text
+underscore
+typography ,
+===============================================
+Biometrics are body measurements and calculations related to human characteristics
+biometrics
+calculations ,surveillance ,
+===============================================
+User research focuses on understanding user behaviors, needs, and motivations through observation techniques, task analysis, and other feedback methodologies
+user research
+market research ,ui ,task analysis ,customer experience ,
+===============================================
+People skills are patterns of behavior and behavioral interactions
+people skills
+communication ,communications ,
+===============================================
+Lean Six Sigma is a method that relies on a collaborative team effort to improve performance by systematically removing waste[1] and reducing variation
+lean six sigma
+six sigma ,waste ,lean manufacturing ,
+===============================================
+Chemical engineering is a certain type of engineering which deals with the study of operation and design of chemical plants as well as methods of improving production
+chemical engineering
+process engineering ,chemical plants ,
+===============================================
+Copy editing (also known as copyediting and manuscript editing) is the process of revising written material to improve readability and fitness, as well as ensuring that text is free of grammatical and factual errors
+copy editing
+technical communication ,journalism ,writing ,
+===============================================
+A pattern is a regularity in the world, in human-made design, or in abstract ideas
+pattern
+designs ,design ,
+===============================================
+Broadly speaking, a risk assessment is the combined effort of: Put in simpler terms, a risk assessment determines possible mishaps, their likelihood and consequences, and the tolerances for such events
+risk assessment
+risk analysis ,hazard analysis ,reliability engineering ,safety engineering ,
+===============================================
+Respect, also called esteem, is a positive feeling or action shown towards someone or something considered important, or held in high esteem or regard
+respect
+human behavior ,interpersonal relationships ,
+===============================================
+NetSuite Inc
+netsuite
+erp software ,
+===============================================
+Character animation is a specialized area of the animation process, which involves bringing animated characters to life
+character animation
+animation ,character ,characters ,
+===============================================
+Effectiveness is the capability of producing a desired result or the ability to produce desired output
+effectiveness
+heat transfer ,producing ,
+===============================================
+Mathcad is computer software for the verification, validation, documentation and re-use of mathematical calculations in engineering and science, notably mechanical, chemical, electrical, and civil engineering
+mathcad
+numerical linear algebra ,proprietary software ,programming languages ,linear algebra ,cvs ,civil engineering ,moses ,
+===============================================
+High-frequency trading (HFT) is a type of algorithmic financial trading characterized by high speeds, high turnover rates, and high order-to-trade ratios that leverages high-frequency financial data and electronic trading tools
+trading
+financial markets ,
+===============================================
+In biology, adaptation has three related meanings
+adaptation
+biology ,evolutionary biology ,
+===============================================
+Zendesk Inc
+zendesk
+cscs ,crm software ,
+===============================================
+Business continuity may be defined as "the capability of an organisation to continue the delivery of products or services at pre-defined acceptable levels following a disruptive incident”,[1] and business continuity planning [2][3] (or business continuity and resiliency planning) is the process of creating systems of prevention and recovery to deal with potential threats to a company
+business continuity planning
+emergency management ,disaster recovery ,collaboration ,it risk management ,systems thinking ,business continuity ,
+===============================================
+Sales are activities related to selling or the number of goods sold in a given targeted time period
+sales
+marketing ,forecasting ,selling ,business process ,
+===============================================
+A market analysis studies the attractiveness and the dynamics of a special market within a special industry
+market analysis
+market research ,business process ,dynamics ,
+===============================================
+Asana (/ˈɑːsənə/)[2] is a web and mobile application designed to help teams organize, track, and manage their work
+asana
+web applications ,mobile applications ,
+===============================================
+Instructional design (ID), also known as instructional systems design (ISD), is the practice of systematically designing, developing and delivering instructional products and experiences, both digital and physical, in a consistent and reliable fashion toward an efficient, effective, appealing, engaging and inspiring acquisition of knowledge
+instructional design
+communication design ,educational psychology ,educational technology ,
+===============================================
+A database is an organized collection of data, generally stored and accessed electronically from a computer system
+database
+databases ,
+===============================================
+Microelectronics is a subfield of electronics
+microelectronics
+electronics ,
+===============================================
+Goals of a product strategy: Vision provides the big picture of what the company is trying to achieve
+product strategy
+product management ,
+===============================================
+Confidence is a state of being clear-headed either that a hypothesis or prediction is correct or that a chosen course of action is the best or most effective
+confidence
+courses ,positive psychology ,
+===============================================
+Surveying or land surveying is the technique, profession, art, and science of determining the terrestrial or three-dimensional positions of points and the distances and angles between them
+surveying
+civil engineering ,land use ,
+===============================================
+Manufacturing engineering is a branch of professional engineering that shares many common concepts and ideas with other fields of engineering such as mechanical, chemical, electrical, and industrial engineering
+manufacturing engineering
+industrial engineering ,
+===============================================
+A spectrum analyzer measures the magnitude of an input signal versus frequency within the full frequency range of the instrument
+spectrum analyzer
+acoustics ,magnitude ,laboratory equipment ,signal processing ,spectroscopy ,
+===============================================
+Compositing is the process or technique of combining visual elements from separate sources into single images, often to create the illusion that all those elements are parts of the same scene
+compositing
+visual effects ,
+===============================================
+Climate is the long-term average of weather, typically averaged over a period of 30 years
+climate
+weather ,climatology ,
+===============================================
+Technical communication is a means to convey scientific, engineering, or other technical information
+technical communication
+mmo ,writing ,
+===============================================
+Tandem, or in tandem, is an arrangement in which a team of machines, animals or people are lined up one behind another, all facing in the same direction
+tandem
+seating ,vehicles ,
+===============================================
+TIBCO Spotfire is an analytics platform
+spotfire
+business intelligence ,tibco spotfire ,
+===============================================
+Data governance is a term used on both a macro and a micro level
+data governance
+macro ,data management ,macros ,
+===============================================
+Market risk is   the risk of losses in positions arising from movements in market prices
+market risk
+pricing ,risk ,
+===============================================
+Goal orientation is an "individual disposition towards developing or validating one's ability in achievement settings"
+goal orientation
+motivation ,
+===============================================
+A virtual environment is a networked application that allows a user to interact with both the computing environment and the work of other users
+virtual environment
+computer science ,css ,
+===============================================
+Process optimization is the discipline of adjusting a process so as to optimize (make the best or most effective use of) some specified set of parameters without violating some constraint
+process optimization
+business process management ,
+===============================================
+Adobe Creative Cloud is a set of applications and services from Adobe Inc
+adobe creative cloud
+media ,adobe software ,adobe creative suite ,
+===============================================
+Static timing analysis (STA) is a simulation method of computing the expected timing of a digital circuit without requiring a simulation of the full circuit
+static timing analysis
+timing ,formal methods ,
+===============================================
+MAMP is a solution stack composed of free and open-source and proprietary software proprietary commercial software used together to develop and run dynamic web sites on Apple Macintosh computers.
+mamp
+wds ,php ,
+===============================================
+Axure RP Pro / Team is a software for creating prototypes and specifications for websites and applications
+axure rp
+ide ,
+===============================================
+J.D
+jd edwards
+erp software ,js ,
+===============================================
+A guitarist (or a guitar player) is a person who plays the guitar
+guitarist
+guitar ,plays ,oracle identity manager ,
+===============================================
+The term process model is used in various contexts
+process modeling
+systems engineering ,business process management ,
+===============================================
+Content marketing is a form of marketing focused on creating, publishing, and distributing content for a targeted audience online
+content marketing
+public relations ,publishing ,
+===============================================
+Patience (or forbearance) is the ability to endure difficult circumstances
+patience
+spirituality ,time management ,
+===============================================
+The United Nations defines community development as "a process where community members come together to take collective action and generate solutions to common problems."[1] It is a broad concept, applied to the practices of civic leaders, activists, involved citizens, and professionals to improve various aspects of communities, typically aiming to build stronger and more resilient local communities
+community development
+community building ,
+===============================================
+Okta, Inc
+okta
+cloud applications ,ims ,identity management ,authentication ,ipo ,
+===============================================
+Image registration is the process of transforming different sets of data into one coordinate system
+image registration
+medical imaging ,computer vision ,
+===============================================
+Conceptual design is an early phase of the design process, in which the broad outlines of function and form of something are articulated
+conceptual design
+designs ,conceptual art ,design ,
+===============================================
+Data profiling is the process of examining the data available from an existing information source (e.g
+data profiling
+data analysis ,data management ,data quality ,
+===============================================
+Visual merchandising is the practice in the retail industry of optimizing the presentation of products and services to better highlight their features and benefits
+visual merchandising
+sales promotion ,merchandising ,brand management ,interior design ,consumer behaviour ,
+===============================================
+Empathy is the capacity to understand or feel what another person is experiencing from within their frame of reference, that is, the capacity to place oneself in another's position
+empathy
+interpersonal relationships ,cognitive neuroscience ,
+===============================================
+iCIMS, Inc
+icims
+e-recruitment ,
+===============================================
+Conditional access (abbreviated CA) or conditional access system (abbreviated CAS) is the protection of content by requiring certain criteria to be met before granting access to the content
+conditional access
+access ,broadcast engineering ,drm ,
+===============================================
+Audio post production is all stages of audio production relating to sound produced and synchronized with moving picture (film, television, or video)
+audio post production
+sound ,music production ,
+===============================================
+Reference data is data used to classify or categorize other data
+reference data
+data management ,
+===============================================
+In artificial intelligence, genetic programming (GP) is a technique of evolving programs, starting from a population of unfit (usually random) programs, fit for a particular task by applying operations analogous to natural genetic processes to the population of programs
+genetic programming
+operations ,genetic algorithms ,
+===============================================
+Data fusion is the process of integrating multiple data sources to produce more consistent, accurate, and useful information than that provided by any individual data source
+data fusion
+data analysis ,
+===============================================
+Agile leadership is the craft of creating the right context for self-organisation
+agile leadership
+leadership ,organizational behavior ,
+===============================================
+Computational photography refers to digital image capture and processing techniques that use digital computation instead of optical processes
+computational photography
+cfos ,computer vision ,digital photography ,
+===============================================
+Preparation  is a management principle whereby people get ready for a final product or for a successful experience
+preparation
+change management ,preparedness ,
+===============================================
+Hobbyist operating system development is one of the more involved and technical options for a computer hobbyist
+operating system development
+on screen takeoff ,
+===============================================
+For motorized vehicles, such as automobiles, aircraft, and watercraft, vehicle dynamics is the study of vehicle motion, e.g., how a vehicle's forward movement changes in response to driver inputs, propulsion system outputs, ambient conditions, air/surface/water conditions, etc
+vehicle dynamics
+mechanics ,automotive engineering ,vehicles ,water ,dynamics ,movement ,
+===============================================
+Prezi is a Hungarian presentation software company founded in 2009, with offices in Budapest, Berlin, San Francisco, and Riga
+prezi
+ui ,
+===============================================
+A casino is a facility for certain types of gambling
+casino
+gambling ,
+===============================================
+Active learning is "a method of learning in which students are actively or experientially involved in the learning process and where there are different levels of active learning, depending on student involvement." [1] Bonwell & Eison (1991) states that "students participate [in active learning] when they are doing something besides passively listening." In a report from the Association for the Study of Higher Education (ASHE), authors discuss a variety of methodologies for promoting active learning
+active learning
+poe ,educational psychology ,
+===============================================
+Fax (short for facsimile),  sometimes called telecopying or telefax (the latter short for telefacsimile), is the telephonic transmission of scanned printed material (both text and images), normally to a telephone number connected to a printer or other output device
+fax
+office equipment ,materials ,
+===============================================
+Table tennis, also known as ping-pong and whiff-whaff, is a sport in which two or four players hit a lightweight ball, also known as the ping-pong ball, back and forth across a table using small rackets
+table tennis
+healthcare information technology ,sports ,
+===============================================
+Pure mathematics is the study of mathematical concepts independently of any application outside mathematics
+pure mathematics
+mathematics ,abstraction ,
+===============================================
+Semantic search denotes search with meaning, as distinguished from lexical search where the search engine looks for literal matches of the query words or variants of them, without understanding the overall meaning of the query
+semantic search
+search engines ,search ,information retrieval ,semantic web ,internet ,
+===============================================
+Humans are motivated to assign causes to their actions and behaviors
+attribution
+interpersonal communication ,interpersonal communications ,
+===============================================
+Automatic Data Processing, Inc
+adp
+payroll ,data processing ,
+===============================================
+C++11 is a version of the standard for the programming language C++
+c++11
+c ,c++ ,
+===============================================
+Jonatan Leandoer Håstad[3] (born July 18, 1996), known professionally as Yung Lean, is a Swedish rapper, singer, songwriter, and record producer
+lean
+swedish ,musicians ,
+===============================================
+Fiction writing is the composition of non-factual prose texts
+fiction writing
+writing ,composition ,fiction ,
+===============================================
+Cross-selling is the action or practice of selling an additional product or service to an existing customer
+cross selling
+selling ,sales ,business model ,
+===============================================
+Invoice Processing : involves the handling of incoming invoices from arrival to payment
+invoice processing
+accounts payable ,payments ,
+===============================================
+Student engagement occurs when "students make a psychological investment in learning
+student engagement
+investments ,educational psychology ,
+===============================================
+Behavior-based safety (BBS) is the "application of science of behavior change to real world safety problems"
+safety
+behavior change ,organizational behavior ,hazard analysis ,
+===============================================
+Power-system automation is the act of automatically controlling the power system via instrumentation and control devices
+automation
+electrical engineering ,electric power ,controlling ,system automation ,smart grid ,
+===============================================
+Bioburden is normally defined as the number of bacteria living on a surface that has not been sterilized
+bioburden
+pharmacy ,
+===============================================
+Organizational learning is the process of creating, retaining, and transferring knowledge within an organization
+organizational learning
+sip ,educational psychology ,
+===============================================
+A pilot plant is a pre-commercial production system that employs new production technology and/or produces small volumes of new technology-based products, mainly for the purpose of learning about the new technology
+pilot plant
+industrial engineering ,
+===============================================
+Corporate social responsibility (CSR) is a type of international private business self-regulation[1] that aims to contribute to societal goals of a philanthropic, activist, or charitable nature by engaging in or supporting volunteering or ethically-oriented practices
+corporate social responsibility
+professional ethics ,terminology ,
+===============================================
+Video on demand (VOD) is a media distribution system that allows users to access videos without a traditional video playback device and the constraints of a typical static broadcasting schedule
+vod
+new media ,
+===============================================
+In computing, adoption means the transfer (conversion) between an old system and a target system in an organization (or more broadly, by anyone)
+adoption
+information systems ,
+===============================================
+Process safety management system is a regulation promulgated by the U.S
+process safety management
+regulations ,safety engineering ,process safety ,
+===============================================
+Locksmithing is the science and art of making and defeating locks
+locksmithing
+science ,metalworking ,
+===============================================
+Stage management is a broad field that is generally defined as the practice of organization and coordination of an event or theatrical production
+stage management
+theatrical production ,mmo ,broadcasting ,theatre ,stage ,
+===============================================
+Entrepreneurship is the creation or extraction of value
+entrepreneurship
+extractions ,business model ,small business ,
+===============================================
+Automatic Data Processing, Inc
+adp
+payroll ,data processing ,
+===============================================
+El distribuidor minorista, minorista, vienta en menudeo, o, o detallista ye la empresa comercial o persona en réxime d'autónomu que viende productos al consumidor final
+minorista
+commercials ,persona ,personas ,
+===============================================
+Referential integrity is a property of data stating that all its references are valid
+integrity
+data quality ,
+===============================================
+Loan servicing is the process by which a company (mortgage bank, servicing firm, etc.) collects interest, principal, and escrow payments from a borrower
+loan servicing
+loans ,mortgage ,
+===============================================
+A first aid kit is a collection of supplies and equipment that is used to give medical treatment
+first aid
+medical equipment ,
+===============================================
+Psychological testing is the administration of psychological tests
+psychological testing
+clinical psychology ,administration ,
+===============================================
+High-speed photography is the science of taking pictures of very fast phenomena
+photography
+science ,optics ,
+===============================================
+Job costing is accounting which tracks the costs and revenues by "job" and enables standardized reporting of profitability by job
+job costing
+reporting ,management accounting ,
+===============================================
+Defined broadly, a visionary is one who can envision the future
+visionary
+arts ,art ,artists ,
+===============================================
+Crisis intervention is a time-limited intervention with a specific psychotherapeutic approach to immediately stabilize those in crisis
+crisis intervention
+counseling ,law enforcement ,interventions ,
+===============================================
+Multichannel marketing is the blending of different distribution and promotional channels for the purpose of marketing
+multi-channel marketing
+marketing ,
+===============================================
+There are many aspects to horse management
+management
+health ,
+===============================================
+Business communication is the process of sharing information between employees within and outside a company
+business communications
+communication ,communications ,business process ,
+===============================================
+Kaizen (改善) è la composizione di due termini giapponesi, KAI (cambiamento, miglioramento) e ZEN (buono, migliore), e significa cambiare in meglio, miglioramento continuo
+kaizen
+lean ,ees ,
+===============================================
+Stakeholder engagement is the process by which an organization involves people who may be affected by the decisions it makes or can influence the implementation of its decisions
+stakeholder engagement
+corporate social responsibility ,
+===============================================
+Sales development is an organization that sits between the marketing and sales functions of a business and is in charge of the front-end of the sales cycle: identifying, connecting with, and qualifying leads
+sales development
+sales ,
+===============================================
+Interactive marketing, sometimes called trigger-based or event-driven marketing,[1] is a marketing strategy that uses two-way communication channels to allow consumers to connect with a company directly
+interactive marketing
+triggers ,marketing strategy ,crm ,
+===============================================
+An elevator pitch, elevator speech, or elevator statement is a short description of an idea, product, or company that explains the concept in a way such that any listener can understand it in a short period of time
+elevator pitch
+elevators ,speech ,
+===============================================
+A high-risk pregnancy is one of greater risk to the mother or her fetus than an uncomplicated pregnancy
+pregnancy
+counseling ,psychotherapy ,risk ,
+===============================================
+Renovations (also called remodeling) is the process of improving a broken, damaged, or outdated structure
+renovation
+structures ,interior design ,
+===============================================
+Tridium Inc
+tridium
+scss ,cpt ,
+===============================================
+A grassroots movement is one that uses the people in a given district, region, or community as the basis for a political or economic movement
+grassroots
+community organizing ,
+===============================================
+In electrical engineering, low voltage is a relative term, the definition varying by context
+low voltage
+electricity ,electrical engineering ,electrical safety ,
+===============================================
+Strategic sourcing is the process of developing channels of supply at the lowest total cost, not just the lowest purchase price
+strategic sourcing
+procurement ,cost ,
+===============================================
+Participatory design (originally co-operative design, now often co-design) is an approach to design attempting to actively involve all  stakeholders (e.g
+participatory design
+designs ,design ,product development ,innovation ,
+===============================================
+Coaching is a form of development in which an experienced person, called a coach, supports a learner or client in achieving a specific personal or professional goal by providing training and guidance
+coaching
+training ,educational psychology ,
+===============================================
+Empowerment is the degree of autonomy and self-determination in people and in communities
+empowerment
+sap ,determination ,
+===============================================
+ISO 15489 Information and documentation -- Records management is an international standard for the management of business records, consisting of two (2) parts: Part 1: Concepts and principles and Part 2: Guidelines
+iso
+iso standards ,information management ,records management ,
+===============================================
+Media planning is generally outsourced to entail sourcing and selecting optimal media platforms for a client's brand or product to use
+media planning
+mmo ,sourcing ,advertising ,
+===============================================
+Spend Analysis or Spend Analytics is the process of collecting, cleansing, classifying and analyzing expenditure data with the purpose of decreasing procurement costs, improving efficiency, and monitoring controls and compliance
+spend analysis
+systems analysis ,procurement ,
+===============================================
+SYSPRO is a software development company, providing integrated business software including accounting, manufacturing and distribution operations across a wide variety of industries
+syspro
+cscs ,erp software ,crm software ,
+===============================================
+A process is a unique combination of tools, materials, methods, and people engaged in producing a measurable output;  for example a manufacturing line for machine parts
+process capability
+six sigma ,qc ,
+===============================================
+Irrigation is the artificial  process of applying controlled amounts of water to land to assist in production of crops
+irrigation
+water ,water management ,production ,agronomy ,
+===============================================
+Professional organizing emerged as an industry in 1984 within Los Angeles
+professional organizing
+office equipment ,coaching ,time management ,furniture ,
+===============================================
+In simple terms, risk is the possibility of something bad happening
+risk
+financial risk ,actuarial science ,
+===============================================
+Physical inventory is a process where a business physically counts its entire inventory
+physical inventory
+inventory ,
+===============================================
+Punctuality is the characteristic of being able to complete a required task or fulfill an obligation before or at a previously designated time
+punctuality
+etiquette ,game theory ,time management ,
+===============================================
+In the U.S
+notary public
+legal ,
+===============================================
+Professional audio, abbreviated as pro audio, refers to both an activity and a category of high quality, studio-grade audio equipment
+professional audio
+broadcast engineering ,audio engineering ,oracle identity manager ,
+===============================================
+Effectiveness is the capability of producing a desired result or the ability to produce desired output
+effectiveness
+heat transfer ,producing ,
+===============================================
+The labour law concept of leave, specifically paid leave or, in some countries' long-form, a leave of absence, is an authorised prolonged absence from work, for any reason authorised by the workplace
+leave of absence
+family law ,labor relations ,business law ,
+===============================================
+A membrane is a selective barrier; it allows some things to pass through but stops others
+membrane
+water treatment ,
+===============================================
+Exhibit design (or exhibition design[1]) is the process of developing an exhibit—from a concept through to a physical, three-dimensional exhibition
+exhibit design
+communication design ,
+===============================================
+Prestressed concrete is a form of concrete used in construction
+prestressed concrete
+building materials ,reinforced concrete ,structural engineering ,forms ,concrete ,construction ,
+===============================================
+Cost accounting is defined as "a systematic set of procedures for recording and reporting measurements of the cost of manufacturing goods and performing services in the aggregate and in detail
+cost accounting
+manufacturing ,management accounting ,
+===============================================
+Basic life support (BLS) is a level of medical care which is used for victims of life-threatening illnesses or injuries until they can be given full medical care at a hospital
+bls
+ems ,
+===============================================
+Netgear, Inc
+netgear
+cscs ,routers ,wireless networking ,nortel ,
+===============================================
+Tax exemption is the reduction or removal of a liability to make a compulsory payment that would otherwise be imposed by a ruling power upon persons, property, income, or transactions
+tax
+tax policy ,payments ,
+===============================================
+User research focuses on understanding user behaviors, needs, and motivations through observation techniques, task analysis, and other feedback methodologies
+user research
+market research ,ui ,task analysis ,customer experience ,
+===============================================
+An intergovernmental organization (IGO) or international organization is an organization composed primarily of sovereign states (referred to as member states), or of other intergovernmental organizations
+organization
+globalization ,
+===============================================
+Cost accounting is defined as "a systematic set of procedures for recording and reporting measurements of the cost of manufacturing goods and performing services in the aggregate and in detail
+cost accounting
+manufacturing ,management accounting ,
+===============================================
+Operant conditioning (also called instrumental conditioning) is a type of associative learning process through which the strength of a behavior is modified by reinforcement or punishment
+operant conditioning
+experimental psychology ,educational technology ,
+===============================================
+A dispute/disagreement is a continuing disagreement carried on between two or more parties
+dispute
+communication ,communications ,sociology ,parties ,
+===============================================
+Entrepreneurship is the creation or extraction of value
+entrepreneurship
+extractions ,business model ,small business ,
+===============================================
+Lifting equipment, also known as lifting gear, is a general term for any equipment that can be used to lift loads
+lifting equipment
+technology ,
+===============================================
+The meaning of spirituality has developed and expanded over time, and various connotations can be found alongside each other
+spirituality
+metaphysics ,
+===============================================
+Strategic Leadership is the ability to influence others to voluntarily make decisions that enhance the prospects for the organization's long-term success while maintaining short-term financial stability
+strategic leadership
+change management ,make ,leadership ,
+===============================================
+Strength training or resistance training involves the performance of physical exercises which are designed to improve strength and endurance
+strength training
+exercises ,bodybuilding ,strength ,exercise ,
+===============================================
+Trend analysis is the widespread practice of collecting information and attempting to spot a pattern
+trend analysis
+research methods ,
+===============================================
+Solid-state chemistry, also sometimes referred  as materials chemistry, is the study of the synthesis, structure, and properties of solid phase materials, particularly, but not necessarily exclusively of, non-molecular solids
+chemistry
+materials science ,
+===============================================
+Palo Alto Networks, Inc
+palo alto networks
+cscs ,computer security ,
+===============================================
+Keystroke logging, often referred to as keylogging or keyboard capturing, is the action of recording (logging) the keys struck on a keyboard,[1] typically covertly, so that a person using the keyboard is unaware that their actions are being monitored
+logging
+security ,spyware ,surveillance ,
+===============================================
+The Defense Travel System (DTS) is a software application for the US Department of Defense that allows employees to manage their business travel
+dts
+business travel ,military logistics ,
+===============================================
+Account planning brings the focus on the consumer into the process of developing advertising
+account planning
+advertising ,
+===============================================
+Forensic accounting, forensic accountancy or financial forensics is the specialty practice area of accounting that investigates whether firms engage in financial reporting misconduct
+forensic accounting
+auditing ,financial reporting ,
+===============================================
+The U.S
+aging in place
+gerontology ,
+===============================================
+OnCore Golf Technology, Inc
+golf
+gems ,golf equipment ,
+===============================================
+Die Simulation oder Simulierung ist die Nachbildung spezifischer Realitäten für verschiedene Zwecke, z. B
+simulations
+systems engineering ,
+===============================================
+A prototype is an early sample, model, or release of a product built to test a concept or process
+prototype
+industrial design ,product development ,testes ,
+===============================================
+A flood is an overflow of water that submerges land that is usually dry
+flood
+water ,land ,hydrology ,weather ,
+===============================================
+Refurbishment is the distribution of products (generally electronics) that have been previously returned to a manufacturer or vendor for various reasons, not sold in the market or new launch of a product
+refurbishments
+electronics manufacturing ,sustainable business ,electronics ,
+===============================================
+Collaborative learning is a situation in which two or more people learn or attempt to learn something together
+collaborative learning
+collaboration ,educational psychology ,
+===============================================
+Trade finance signifies financing for trade, and it concerns both domestic and international trade transactions
+trade finance
+working capital management ,international finance ,international trade ,
+===============================================
+Computational mechanics is the discipline concerned with the use of computational methods to study phenomena governed by the principles of mechanics
+computational mechanics
+mechanics ,cfos ,computational physics ,
+===============================================
+Capacity building (or capacity development) is the process by which individuals and organizations obtain, improve, and retain the skills, knowledge, tools, equipment, and other resources needed to do their jobs competently
+capacity building
+community development ,international development ,
+===============================================
+Conversion rate optimization (CRO) is the process of increasing the percentage of users or website visitors to take a desired action (such as buying a product or leaving contact details)
+cro
+digital marketing ,
+===============================================
+Poka-yoke (ポカヨケ, [poka joke]) is a Japanese term that means "mistake-proofing" or "inadvertent error prevention"
+poka yoke
+lean manufacturing ,japanese ,prevention ,
+===============================================
+Terminology is a general word for the group of specialized words or meanings relating to a particular field, and also the study of such terms and their use
+terminology
+translation ,applied linguistics ,
+===============================================
+Coaching is a form of development in which an experienced person, called a coach, supports a learner or client in achieving a specific personal or professional goal by providing training and guidance
+coaching
+training ,educational psychology ,
+===============================================
+Actuate UK is an alliance of eight specialist engineering membership associations in the United Kingdom
+actuate
+engineering ,
+===============================================
+Crisis management is the process by which an organization deals with a disruptive and unexpected event that threatens to harm the organization or its stakeholders
+crisis management
+emergency management ,risk management ,incident management ,events ,organization ,
+===============================================
+In the United States, the question whether any compensation plan is qualified or non-qualified is primarily a question of taxation under the Internal Revenue Code (IRC)
+deferred compensation
+personal finance ,internal revenue code ,compensation plans ,
+===============================================
+Dry needling, also known as "trigger point dry needling",[1][2] is a technique used by many different healthcare disciplines, including acupuncturists, physical therapists, physicians, chiropractors, dentists, veterinarians, occupational therapists, athletic trainers, myotherapists (Australia), among others
+dry needling
+acupuncture ,physical therapy ,chiropractic ,pain management ,alternative medicine ,
+===============================================
+A field training officer (FTO) is an experienced or senior member of an organization who is responsible for the training and evaluation of a junior or probationary level member
+field training officer
+emrs ,training ,emergency medical ,law enforcement ,emr ,
+===============================================
+Subrogation is the assumption by a third party (such as a second creditor or an insurance company) of another party's legal right to collect a debt or damages
+subrogation
+insurance law ,legal ,
+===============================================
+Mitigation is the reduction of something harmful or the reduction of its harmful effects
+mitigation
+emergency management ,risk management ,
+===============================================
+A bioassay is an analytical method to determine concentration or potency of a substance by its effect on living cells or tissues
+bioassay
+environmental science ,pharmacology ,aquatic ecology ,
+===============================================
+Altiris Inc
+altiris
+acquisitions ,
+===============================================
+Non-invasive ventilation (NIV) is the use of breathing support administered through a face mask, nasal mask, or a helmet
+ventilation
+mechanical ventilation ,
+===============================================
+La méthode SMED a pour objet de réduire le temps d'un changement de série et de permettre ainsi de réduire la taille de lot minimale
+smed
+logistique ,
+===============================================
+Gabrielle Olivia Mirville,[1][2] (born 1990) known professionally as Abra, is an American singer, songwriter, actress and record producer signed to Awful Records
+abra
+spss ,
+===============================================
+Project governance is the management framework within which project decisions are made
+project governance
+projects ,project management ,
+===============================================
+Un plan de negocio es  un documento formal de objetivos empresariales, que se constituye como una fase de proyección y evaluación
+plan de negocio
+finanzas ,mercadotecnia ,
+===============================================
+Interior design is a field of study and a process that utilizes principles of design and effective organization of interior spaces, color and furnishings
+interior design
+arts ,
+===============================================
+Waterproofing is the process of making an object or structure waterproof or water-resistant so that it remains relatively unaffected by water or resisting the ingress of water under specified conditions
+waterproofing
+water ,gardening ,protection ,structures ,physicals ,
+===============================================
+Fundraising or fund-raising is the process of seeking and gathering voluntary financial contributions by engaging individuals, businesses, charitable foundations, or governmental agencies
+fundraising
+foundations ,philanthropy ,financial economics ,foundation ,
+===============================================
+SCALE-UP is a learning environment specifically created to facilitate active, collaborative learning in a studio-like setting
+scale-up
+science education ,collaborative learning ,
+===============================================
+An incident is an event that could lead to loss of, or disruption to, an organization's operations, services or functions
+incident management
+operations ,organization ,itil ,
+===============================================
+Vendor relationship management (Vrm) is a category of business activity made possible by software tools that aim to provide customers with both independence from vendors and better means for engaging with vendors
+vendor relationship management
+supply chain management ,crm ,
+===============================================
+Informationsdienst Wissenschaft e.V
+wissenschaft
+publishing ,
+===============================================
+Equity capital is raised in many ways; the major types of equity capital are unlisted equity, listed equity and hybrids
+equity capital markets
+financial markets ,finance ,
+===============================================
+Process qualification is the qualification of manufacturing and production processes to confirm they are able to operate at a certain standard during sustained commercial manufacturing
+process qualification
+formal methods ,business process management ,
+===============================================
+The Certified Fraud Examiner (CFE) is a credential awarded by the Association of Certified Fraud Examiners (ACFE)
+certified fraud examiner
+fraud ,
+===============================================
+Causal inference is the process of determining the independent, actual effect of a particular phenomenon that is a component of a larger system
+causal inference
+regression analysis ,graphical models ,pos ,
+===============================================
+Boq is a minor character in The Wonderful Wizard of Oz by L
+boq
+character ,ciw ,characters ,
+===============================================
+Media planning is generally outsourced to entail sourcing and selecting optimal media platforms for a client's brand or product to use
+media planning
+mmo ,sourcing ,advertising ,
+===============================================
+Landscape architecture is the design of outdoor areas, landmarks, and structures to achieve environmental, social-behavioural, or aesthetic outcomes
+landscape architecture
+environmental ,outdoors ,ess ,architectures ,architecture ,
+===============================================
+Auto-Owners Insurance Group is a mutual insurance company that provides life, home, car and business insurance
+insurance
+enterprise content management ,
+===============================================
+Dredging is the operation of excavating material from a water environment (sometimes temporarily created)
+dredging
+operations ,materials ,terminology ,coastal engineering ,
+===============================================
+The point of sale (POS) or point of purchase (POP) is the time and place where a retail transaction is completed
+pos
+purchase ,sales ,payment systems ,
+===============================================
+Building information modeling  (BIM) is a process supported by various tools, technologies and contracts involving the generation and management of digital representations of physical and functional characteristics of places
+bim
+construction ,cad ,data modeling ,architectures ,architecture ,
+===============================================
+TSIS-CORSIM is a microscopic traffic simulation software package for signal systems, highway systems, freeway systems, or combined signal, highway and freeway systems
+corsim
+simulation software ,
+===============================================
+The self-discrepancy theory states that individuals compare their “actual” self to internalized standards or the “ideal/ought self”
+theory
+psychology ,
+===============================================
+Discrimination is the act of making unjustified distinctions between human beings based on the groups, classes, or other categories to which they are perceived to belong
+discrimination
+critical thinking ,social justice ,
+===============================================
+Sales are activities related to selling or the number of goods sold in a given targeted time period
+sales
+marketing ,forecasting ,selling ,business process ,
+===============================================
+Nutrition education is a set of learning experiences designed to assist in healthy eating choices and other nutrition-related behavior
+nutrition education
+dietetics ,nutrition ,healthy eating ,
+===============================================
+In communication studies, organizational communication is a field of study, that focuses on the communication and information flow within organizations through different roles of the media
+organizational communication
+interpersonal communication ,communication theory ,interpersonal communications ,
+===============================================
+Haṭha yoga is a branch of yoga
+hatha yoga
+philosophy ,yoga ,
+===============================================
+Trend analysis is the widespread practice of collecting information and attempting to spot a pattern
+trend analysis
+research methods ,
+===============================================
+Vehicle extrication is the process of removing a vehicle from around a person who has been involved in a motor vehicle collision, when conventional means of exit are impossible or inadvisable
+vehicle extrication
+conventional ,vehicles ,rescue ,
+===============================================
+A razor is a tool, with one or more blades, most commonly used by men for shaving the hair from their face, and by women for shaving hair from their legs and underarms
+razor
+hygiene ,
+===============================================
+Material selection is a step in the process of designing any physical object
+material selection
+materials science ,designs ,design ,product development ,
+===============================================
+Business partnering is the development of successful, long term, strategic relationships between customers and suppliers, based on achieving best practice and sustainable competitive advantage
+business partnering
+supply chain management ,
+===============================================
+Environmental law is a collective term encompassing aspects of the law that provide protection to the environment
+environmental law
+protection ,ess ,
+===============================================
+ZoomInfo Technologies Inc
+zoominfo
+mergers and acquisitions ,search engines ,
+===============================================
+Fine dining restaurants are full-service restaurants with specific dedicated meal courses
+fine dining
+risk based testing ,
+===============================================
+Navisworks (known for a while as JetStream) is a 3D design review package for Microsoft Windows
+navisworks
+microsoft windows ,bim ,
+===============================================
+Cladding is the application of one material over another to provide a skin or layer
+cladding
+building materials ,materials ,skin ,
+===============================================
+Concentrated solar power (CSP, also known as concentrating solar power, concentrated solar thermal) systems generate solar power by using mirrors or lenses to concentrate a large area of sunlight onto a receiver
+concentrated solar power
+spss ,solar power ,solar thermal ,
+===============================================
+An intrusion detection system (IDS)[1] is a device or software application that monitors a network or systems for malicious activity or policy violations
+ids
+policy ,system administration ,computer security ,
+===============================================
+Wastewater (or waste water) is any water that has been contaminated by human use
+wastewater
+water ,sanitation ,
+===============================================
+Discretion has the meaning of acting on one's own authority and judgment
+discretion
+judgment ,administrative law ,public administration ,criminal law ,
+===============================================
+Play therapy refers to a range of methods of capitalising on children's natural urge to explore and harnessing it to meet and respond to the developmental and later also their mental health needs
+play therapy
+child development ,plays ,mental health ,natural ,
+===============================================
+Media buying is taking a commercial, or newspaper ad, or other sales message and getting it viewed by the intended audience
+media buying
+advertising ,sales ,
+===============================================
+In music, tessitura (Italian: [tessiˈtuːra], pl
+tessitura
+singing ,iot ,music ,
+===============================================
+Tekla is a software product family that consists of programs for analysis and  design, detailing and project communication
+tekla
+engineering ,bim ,product lifecycle management ,
+===============================================
+Sarcasm is the use of words usually used to either mock or annoy someone, or for humorous purposes
+sarcasm
+rhetoric ,foss ,mock ,
+===============================================
+Information design is the practice of presenting information in a way that fosters an efficient and effective understanding of the information
+information design
+designs ,educational psychology ,communication design ,graphic design ,ui ,design ,applied linguistics ,
+===============================================
+Career assessments are tools that are designed to help individuals understand how a variety of personal attributes (i.e., data values, preferences, motivations, aptitudes and skills), impact their potential success and satisfaction with different career options and work environments
+career assessment
+career development ,
+===============================================
+Beauty is commonly described as a feature of objects that makes these objects pleasurable to perceive
+beauty
+fashion ,aesthetics ,physicals ,
+===============================================
+Morale, also known as esprit de corps (French pronunciation: ​[ɛspʀi də kɔʀ]), is the capacity of a group's members to maintain belief in an institution or goal, particularly in the face of opposition or hardship
+morale
+motivation ,
+===============================================
+Turnaround management is a process dedicated to corporate renewal
+turn around management
+insolvency ,
+===============================================
+The ocean (also the sea or the world ocean) is the body of salt water which covers approximately 71% of the surface of the Earth
+ocean
+water ,coastal ,
+===============================================
+Reverse osmosis is a way of purifying water with the use of a filter (a membrane)
+reverse osmosis
+water ,
+===============================================
+Credit management is the process of granting credit, setting the terms on which it is granted, recovering this credit when it is due, and ensuring compliance with company credit policy, among other credit related functions
+credit management
+banking ,credit ,
+===============================================
+Cost accounting is defined as "a systematic set of procedures for recording and reporting measurements of the cost of manufacturing goods and performing services in the aggregate and in detail
+cost accounting
+manufacturing ,management accounting ,
+===============================================
+Debt settlement (also called debt reduction, debt negotiation or debt resolution) is a settlement negotiated with a debtor's unsecured creditor
+debt settlement
+debt ,bankruptcy ,
+===============================================
+In music, the term swing has two main uses
+swing
+ram ,music ,
+===============================================
+A torch is a stick with combustible material at one end, which is ignited and used as a light source
+torch
+signalling ,materials ,lighting ,
+===============================================
+Treasury management (or treasury operations) includes management of an enterprise's holdings, with the ultimate goal of managing the firm's liquidity and mitigating its operational, financial and reputational risk
+treasury management
+banking ,financial markets ,financial management ,
+===============================================
+A budget process refers to the process by which governments create and approve a budget, which is as follows: Budgeting is the setting of expenditure levels for each of an organization’s functions
+budget process
+public administration ,
+===============================================
+Directional Sound refers to the notion of using various devices to create fields of sound which spread less than most (small) traditional loudspeakers
+sound
+ultrasound ,less ,acoustics ,
+===============================================
+Image-guided radiation therapy  is the process of frequent two and three-dimensional imaging, during a course of radiation treatment, used to direct radiation therapy utilizing the imaging coordinates of the actual radiation treatment plan
+radiation therapy
+rtp ,interventional radiology ,
+===============================================
+A mercadotecnia é «o proceso social e administrativo polo cal os grupos e individuos satisfán as súas necesidades ao crearen e intercambiaren bens e servizos»
+mercadotecnia
+ees ,
+===============================================
+Triage (/ˈtriːɑːʒ, triˈɑːʒ/) is the process of determining the priority of patients' treatments by the severity of their condition or likelihood of recovery with and without treatment
+triage
+emergency management ,first aid ,treatment ,
+===============================================
+Holography is the science and practice of making holograms
+holography
+science ,emerging technologies ,
+===============================================
+Imperva is a cyber security software and services company which provides protection to enterprise data and application software
+imperva
+ddos mitigation ,mergers and acquisitions ,protection ,internet security ,
+===============================================
+Ansys, Inc
+ansys
+cfd ,
+===============================================
+Churn rate (sometimes called attrition rate), in its broadest sense, is a measure of the number of individuals or items moving out of a collective group over a specific period
+churn
+attrition ,rates ,
+===============================================
+Interdisciplinary teaching is a method, or set of methods, used to teach across curricular disciplines or "the bringing together of separate disciplines around common themes, issues, or problems.”[1] often Interdisciplinary instruction associated with or a component of several other instructional approaches
+interdisciplinary teaching
+teaching ,
+===============================================
+Sales are activities related to selling or the number of goods sold in a given targeted time period
+sales
+marketing ,forecasting ,selling ,business process ,
+===============================================
+Salesforce.com, Inc
+salesforce
+cscs ,cloud applications ,com ,crm software ,
+===============================================
+Exercise prescription commonly refers to the specific plan of fitness-related activities that are designed for a specified purpose, which is often developed by a fitness or rehabilitation specialist for the client or patient
+exercise prescription
+physical therapy ,
+===============================================
+Social recruiting (social hiring or social media recruitment) is recruiting candidates by using social platforms as talent databases or for advertising
+social recruiting
+recruitment ,recruitments ,social media ,
+===============================================
+Le Contract Management couvre, selon la définition issue des principaux organismes professionnels en France[Lesquels ?], l'activité qui consiste à rédiger et suivre l'application du contrat tout au long du projet[Notes 1], par la mise en œuvre et la coordination de moyens et processus nécessaires à la maîtrise des risques encourus et la réalisation d'opportunités potentielles[1],[Notes 2]
+contract management
+droit des contrats ,
+===============================================
+Sustainable architecture is architecture that seeks to minimize the negative environmental impact of buildings by efficiency and moderation in the use of materials, energy, development space and the ecosystem at large
+sustainable architecture
+sustainable design ,ess ,sustainable development ,sustainability ,architecture ,architectures ,
+===============================================
+A radiological information system (RIS)[1] is the core system for the electronic management of imaging departments
+information systems
+radiology ,ehr ,
+===============================================
+OTRS (originally Open-Source Ticket Request System) is a service management suite
+otrs
+hds ,itil ,
+===============================================
+Hearing loss has multiple causes, including ageing, genetics, perinatal problems and acquired causes like noise and disease
+hearing loss
+audiology ,communication disorders ,
+===============================================
+Durable medical equipment is any medical equipment used in the home to aid in a better quality of living
+durable medical equipment
+medical equipment ,
+===============================================
+Technological innovation is an extended concept of innovation
+technological innovation
+innovation ,
+===============================================
+Sensory processing is the process that organizes sensation from one's own body and the environment, thus making it possible to use the body effectively within the environment
+sensory processing
+motor controls ,motor control ,neurology ,cognition ,
+===============================================
+Statement on Standards for Attestation Engagements no
+ssae 16
+auditing standards ,
+===============================================
+Social dynamics (or sociodynamics) is the study of the behavior of groups that results from the interactions of individual group members as well to the study of the relationship between individual interactions and group level behaviors
+sd
+systems theory ,
+===============================================
+Software asset management  (SAM) is a business practice that involves managing and optimizing the purchase, deployment, maintenance, utilization, and disposal of software applications within an organization
+software asset management
+asset management ,
+===============================================
+Image-guided radiation therapy  is the process of frequent two and three-dimensional imaging, during a course of radiation treatment, used to direct radiation therapy utilizing the imaging coordinates of the actual radiation treatment plan
+radiation therapy
+rtp ,interventional radiology ,
+===============================================
+Common sense means what people would agree about
+common sense
+philosophy ,
+===============================================
+Photo editing is the changing of images
+photo editing
+photography ,
+===============================================
+Term life insurance or term assurance is life insurance that provides coverage at a fixed rate of payments for a limited period of time, the relevant term
+term life insurance
+life insurance ,assurance ,
+===============================================
+Hoshin Kanri (Japanese: 方針管理, "policy management")[1] is a 7-step process used in strategic planning in which strategic goals are communicated throughout the company and then put into action
+hoshin kanri
+qc tools ,quality management ,strategic planning ,
+===============================================
+Dimensional metrology is the science of calibrating and using physical measurement equipment to quantify the physical size of or distance from any given object.
+dimensional metrology
+manufacturing ,metrology ,physicals ,
+===============================================
+Solicitation is the act of offering, or attempting to purchase, goods or services
+solicitation
+purchase ,criminal law ,
+===============================================
+Key-Account-Management (Abk
+key account management
+crm ,
+===============================================
+Entrepreneurship is the creation or extraction of value
+entrepreneurship
+extractions ,business model ,small business ,
+===============================================
+A communication disorder is any disorder that affects an individual's ability to comprehend, detect, or apply language and speech to engage in discourse effectively with others
+communication
+communication disorders ,
+===============================================
+Pharmacoeconomics refers to the scientific discipline that compares the value of one pharmaceutical drug or drug therapy to another
+pharmacoeconomics
+pharmaceutical industry ,health economics ,
+===============================================
+NONMEM is a software package developed by Stuart L
+nonmem
+pharmacokinetics ,pharmacology ,
+===============================================
+Sysomos Inc
+sysomos
+social media ,
+===============================================
+Sales and operations planning (S&OP) is an integrated business management process through which the executive/leadership team continually achieves focus, alignment and synchronization among all functions of the organization
+sop
+supply chain management ,production planning ,sales ,
+===============================================
+Chocolate is a preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, which may also be used as a flavoring ingredient in other foods
+chocolate
+desserts ,cooking ,baking ,candy ,
+===============================================
+Sales are activities related to selling or the number of goods sold in a given targeted time period
+sales
+marketing ,forecasting ,selling ,business process ,
+===============================================
+Business continuity may be defined as "the capability of an organisation to continue the delivery of products or services at pre-defined acceptable levels following a disruptive incident”,[1] and business continuity planning [2][3] (or business continuity and resiliency planning) is the process of creating systems of prevention and recovery to deal with potential threats to a company
+business continuity planning
+emergency management ,disaster recovery ,collaboration ,it risk management ,systems thinking ,business continuity ,
+===============================================
+Multicultural education is  a set of educational strategies developed to assist teachers when responding to the rapidly changing demographics of their students
+multicultural education
+education ,education policy ,
+===============================================
+The Global Reporting Initiative (known as GRI) is an international independent standards organization that helps businesses, governments and other organizations understand and communicate their impacts on issues such as climate change, human rights and corruption
+gri
+auditing ,human resources ,
+===============================================
+Structural equation modeling (SEM) includes a diverse set of mathematical models, computer algorithms, and statistical methods that fit networks of constructs to data
+sem
+lvm ,graphical models ,psychometrics ,regression models ,
+===============================================
+Running injuries (or running-related injuries, RRI) affect about half of runners annually
+running
+sports injuries ,
+===============================================
+Instructional design (ID), also known as instructional systems design (ISD), is the practice of systematically designing, developing and delivering instructional products and experiences, both digital and physical, in a consistent and reliable fashion toward an efficient, effective, appealing, engaging and inspiring acquisition of knowledge
+instructional design
+communication design ,educational psychology ,educational technology ,
+===============================================
+A category of fine art, graphic art covers a broad range of visual artistic expression, typically two-dimensional, i.e
+graphic arts
+graphic design ,communication design ,graphic arts ,fine art ,
+===============================================
+Economic forecasting is the process of making predictions about the economy
+economic forecasting
+economics ,
+===============================================
+BASE24 is a series of applications produced by ACI Worldwide, Inc
+base24
+bss ,payment systems ,
+===============================================
+Preventive healthcare, or prophylaxis, consists of measures taken for disease prevention
+healthcare
+preventive medicine ,prevention ,medical terminology ,
+===============================================
+Transcription is the process of copying a segment of DNA into RNA
+transcription
+gene expression ,molecular biology ,
+===============================================
+There are many aspects to horse management
+management
+health ,
+===============================================
+Policy-based management[1][2][3] is a technology that can simplify the complex task of managing networks and distributed systems
+management
+computer networking ,distributed systems ,configuration management ,
+===============================================
+A content management system (CMS)[1][2][3] is a computer software used to manage the creation and modification of digital content
+cms
+information systems ,records management ,website management ,
+===============================================
+Sheet metal is metal formed by an industrial process into thin, flat pieces
+sheet metal
+metals ,
+===============================================
+In general, the term credit in the artistic or intellectual sense refers to an acknowledgement of those who contributed to a work, whether through ideas or in a more direct sense.
+credit
+collaboration ,writing ,
+===============================================
+A building envelope is the physical separator between the conditioned and unconditioned environment of a building including the resistance to air, water, heat,[1] light, and noise[2] transfer.
+building envelope
+construction ,protection ,physicals ,
+===============================================
+Historically there have been differences among investigators regarding the definition of organizational culture
+organizational culture
+cultural studies ,
+===============================================
+ANSI Z535 is an American standard that sets forth a system for presenting safety and accident prevention information
+ansi
+electrical safety ,
+===============================================
+Jade is an ornamental mineral, mostly known for its green varieties, though it appears naturally in other colors as well, notably yellow and white
+jade
+chinese culture ,soa ,green ,
+===============================================
+Rubber is a material, which can stretch and shrink
+rubber
+polymers ,materials ,
+===============================================
+Datastream is a type of broadband network connection in the United Kingdom
+datastream
+dsl ,telecommunications ,
+===============================================
+Amy Lou Adams (born August 20, 1974) is an American actress and producer
+adams
+asa ,
+===============================================
+Weight loss is when a person weighs less than before
+weight loss
+health ,less ,
+===============================================
+Building information modeling  (BIM) is a process supported by various tools, technologies and contracts involving the generation and management of digital representations of physical and functional characteristics of places
+bim
+construction ,cad ,data modeling ,architectures ,architecture ,
+===============================================
+Tolerance analysis is the general term for activities related to the study of accumulated variation in mechanical parts and assemblies
+tolerance analysis
+spc ,mechanical engineering ,
+===============================================
+Coaching is a form of development in which an experienced person, called a coach, supports a learner or client in achieving a specific personal or professional goal by providing training and guidance
+coaching
+training ,educational psychology ,
+===============================================
+Data monetization, a form of monetization, may refer to the act of generating measurable economic benefits from available data sources (analytics)
+data monetization
+business intelligence ,data management ,
+===============================================
+Person-centred planning (PCP) is a set of approaches designed to assist an individual to plan their life and supports
+planning
+developmental disabilities ,mental health ,community building ,life coaching ,
+===============================================
+Ceridian HCM, Inc
+ceridian
+ipo ,erp software ,
+===============================================
+Financial mismanagement is management that, deliberately or not, is handled in a way that can be characterized as "wrong, bad, careless, inefficient or incompetent" and that will reflect negatively upon the financial standing of a business or individual
+financials
+corporate finance ,financial management ,corporate governance ,
+===============================================
+Lean manufacturing (‘producción apretada’, ‘manufactura esbelta’, ‘producción limpia’ o ‘producción sin desperdicios’)[1]​ La producción Lean es un modelo de gestión que se enfoca en minimizar las pérdidas de los sistemas de manufactura al mismo tiempo que maximiza la creación de valor para el cliente final
+lean manufacturing
+manufactura ,
+===============================================
+XACML stands for "eXtensible Access Control Markup Language"
+xacml
+access control ,
+===============================================
+Weight management is the phrase used to describe both the techniques and underlying physiological processes that contribute to a person's ability to attain and maintain a certain weight
+weight management
+weight ,weight loss ,
+===============================================
+A paramedic is a health care professional whose primary role is to provide advanced emergency medical care for critical and emergent patients who access the emergency medical system
+paramedic
+emergency medical ,emrs ,emr ,psos ,healthcare ,
+===============================================
+Rigging is both a noun, the equipment, and verb, the action of designing and installing the equipment, in the preparation to move objects
+rigging
+lifting equipment ,preparation ,
+===============================================
+A high-speed camera is a device capable of capturing moving images with exposures of less than 1/1,000 second or frame rates in excess of 250 frames per second
+camera
+cbt ,motions ,
+===============================================
+A green wall is a vertical greening typology, where a vertical built structure is intentionally covered by vegetation
+green
+urban agriculture ,structures ,interior design ,
+===============================================
+Lifestyle is the interests, opinions, behaviours, and behavioural orientations of an individual, group, or culture
+lifestyle
+sociology ,terminology ,
+===============================================
+An invasive species is an introduced organism that negatively alters its new environment
+invasive species
+pest control ,
+===============================================
+Aural rehabilitation is the process of identifying and diagnosing a hearing loss, providing different types of therapies to clients who are hard of hearing, and implementing different amplification devices to aid the client’s hearing abilities
+aural rehabilitation
+audiology ,
+===============================================
+Military logistics is the discipline of planning and carrying out the movement, supply, and maintenance of military forces
+military logistics
+planning ,military ,plannings ,
+===============================================
+Compromiso organizacional es el grado en que un empleado se identifica con una organización en particular y las metas de ésta, y desea mantener su relación con ella
+compromiso
+recursos humanos ,
+===============================================
+Science communication is the practice of informing, educating, raising awareness of science-related topics, and increasing the sense of wonder about scientific discoveries and arguments
+science communication
+science education ,
+===============================================
+International Commercial Law is a body of legal rules, conventions, treaties, domestic legislation and commercial customs or usages, that governs international commercial or business transactions
+international commercial law
+international trade law ,
+===============================================
+In computing, optimization is the process of modifying a system to make some features of it work more efficiently or use fewer resources
+optimization
+computer science ,
+===============================================
+Medical translation is the practice of translating various documents—training materials, medical bulletins, drug data sheets, etc.—for health care, medical devices, marketing, or for clinical, regulatory, and technical documentation
+medical translation
+technical documentation ,translation ,
+===============================================
+A process is a program in execution
+process management
+on screen takeoff ,
+===============================================
+Servant leadership is a leadership philosophy in which the  goal of the leader is to serve
+servant leadership
+leadership ,
+===============================================
+A management buy-in (MBI) occurs when a manager or a management team from outside the company raises the necessary finance, buys it, and becomes the company's new management
+management
+finance ,corporate finance ,
+===============================================
+All-source intelligence is a term used to describe intelligence organizations, intelligence analysts, or intelligence products that are based on all available sources of intelligence collection information
+all-source intelligence
+intelligence ,intelligence analysis ,
+===============================================
+Musco Lighting is a privately owned American company that specializes in design, manufacture of sports and large area lighting systems
+lighting
+atomic layer deposition ,sports ,
+===============================================
+Civil society can be understood as the "third sector" of society, distinct from government and business, and including the family and the private sphere
+civil society
+community building ,
+===============================================
+Teamwork is the collaborative effort of a group to achieve a common goal or to complete a task in the most effective and efficient way
+teamwork
+efficient ,collaboration ,organizational culture ,collaborative ,
+===============================================
+A database is an organized collection of data, generally stored and accessed electronically from a computer system
+database
+databases ,
+===============================================
+Competitive intelligence (CI) is the systematic collection and analysis of information from multiple sources, and a coordinated CI program
+competitive intelligence
+market research ,business intelligence ,economics ,marketing strategy ,
+===============================================
+In taxation and accounting, transfer pricing refers to the rules and methods for pricing transactions within and between enterprises under common ownership or control
+transfer pricing
+taxations ,economics ,tax ,pricing ,
+===============================================
+Collaborative leadership is a management practice which is focused on leadership skills across functional and organizational boundaries.
+collaborative leadership
+collaboration ,
+===============================================
+Tax controversy is an area of legal practice involving tax disputes between tax collection entities such as the U.S
+tax controversy
+tax ,
+===============================================
+Touch typing (also called touch type or touch keyboarding) is a style of typing
+touch typing
+typing ,
+===============================================
