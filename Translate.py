@@ -18,7 +18,7 @@ with open('result/wiki3.txt', 'w', encoding='utf-8') as fp:
             child_dst = res['trans_result'][1]['dst']
             parent_src = res['trans_result'][2]['src']
             parent_dst = res['trans_result'][2]['dst']
-            result = detail_src + '\n' + detail_dst + '\n' +child_src + '\n' +child_dst + '\n' +parent_src + '\n'+parent_dst+'\n================================================\n'
+            result = detail_src + '\n' + detail_dst + '\n' + child_src + '\n' + child_dst + '\n' + parent_src + '\n' + parent_dst + '\n================================================\n'
             print(parent_dst)
             fp.write(result)
 
