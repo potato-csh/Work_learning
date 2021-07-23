@@ -1,11 +1,10 @@
 # 提取字符
 
 
-import time
 import re
 import xlwt
 import time
-from Baidu_Text_transAPI import translation
+from tools.Baidu_Text_transAPI import translation
 
 INDEX = 0
 file = xlwt.Workbook(encoding = 'utf-8')

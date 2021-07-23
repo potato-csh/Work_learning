@@ -1,5 +1,5 @@
 import time
-from Baidu_Text_transAPI import translation
+from tools.Baidu_Text_transAPI import translation
 
 with open('result/extract_wiki3.txt', 'r', encoding='utf-8') as f:
     word = f.read()

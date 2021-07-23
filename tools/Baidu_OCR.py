@@ -38,7 +38,7 @@ def img_to_str(image_path):
     print(type(result), "和", type(text))
 
     """ save """
-    fs = open("result/baidu_ocr.txt", 'w+', encoding='utf-8')  # 将str,保存到txt
+    fs = open("../result/baidu_ocr.txt", 'w+', encoding='utf-8')  # 将str,保存到txt
     fs.write(text)
     fs.close()
     return text
