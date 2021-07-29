@@ -35,7 +35,7 @@ def index():
     # 状态信息
     status = "200 OK"
     # 响应头信息
-    response_header = [("Server", "PWS/1.1")]
+    response_header = [("Server", "PWS2.0")]
     # 1. 打开指定模板文件，读取模板文件中的数据
     with open("template/index.html", "r", encoding="utf-8") as file:
         file_data = file.read()
@@ -56,7 +56,6 @@ def index():
     cursor.execute(sql)
     # 获取查询结果
     result = cursor.fetchall()
-    print(result)
     # 关闭游标
     cursor.close()
     # 关闭连接
@@ -89,17 +88,14 @@ def center():
     # 状态信息
     status = "200 OK"
     # 响应头信息
-    response_header = [("Server", "PWS/1.1")]
+    response_header = [("Server", "PWS2.0")]
     # 1. 打开指定模板文件，读取模板文件中的数据
     with open("template/center.html", "r", encoding='UTF-8') as file:
         file_data = file.read()
     # 2. 查询数据库，模板里面的模板变量( {%content%}) 替换成以后从数据库里面查询的数据
 
     # web框架处理后的数据
-    # 获取当前时间, 模拟数据库内容
-    data = time.ctime()
-
-    response_body = file_data.replace("{%content%}", data)
+    response_body = file_data.replace("{%content%}", "")
 
     # 这里返回的是元组
     return status, response_header, response_body
@@ -108,7 +104,7 @@ def center():
 @route("/center_data.html")
 def center_data():
     status = "200 OK"
-    response_header = [("Server", "PWS/1.1"), ("Content-Type", "text/html;charset=utf-8")]
+    response_header = [("Server", "PWS2.0"), ("Content-Type", "text/html;charset=utf-8")]
     conn = pymysql.connect(host="localhost",
                            port=3306,
                            user="root",
@@ -121,7 +117,6 @@ def center_data():
             '''
     cursor.execute(sql)
     result = cursor.fetchall()
-    print(result)
     center_dict_list = []
     for row in result:
         # 创建空的字典
@@ -137,11 +132,9 @@ def center_data():
         center_dict_list.append(center_dict)
 
     json_str = json.dumps(center_dict_list, ensure_ascii=False)
-    print(json_str)
-    print(type(json_str))
     cursor.close()
     conn.close()
-    return status, handle_request, json_str
+    return status, response_header, json_str
 
 
 # 处理没有找到的动态资源
@@ -149,7 +142,7 @@ def not_found():
     # 状态信息
     status = "404 Not Found"
     # 响应头信息
-    response_header = [("Server", "PWS/1.1")]
+    response_header = [("Server", "PWS2.0")]
     # web框架处理后的数据
     data = "not found"
 

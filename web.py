@@ -3,6 +3,7 @@ import os
 import threading
 import sys
 import framework
+import logging
 
 
 # http协议的web服务器类
@@ -19,6 +20,12 @@ class HttpWebServer(object):
         # 把tcp服务器的套接字作为web服务器对象的属性
         self.tcp_server_socket = tcp_server_socket
 
+    logging.basicConfig(level=logging.info,
+                        format='%(asctime)s - %(filetime)s[line:%(lineno)d] - %(levelname)s : %(message)s ',
+                        filename='log.txt',
+                        filemode='w'
+                        )
+
     # 处理客户端请求
     @staticmethod
     def handle_client_request(new_socket):
@@ -26,6 +33,7 @@ class HttpWebServer(object):
         recv_data = new_socket.recv(4096)
         # 判断接收的数据长度是否为0
         if len(recv_data) == 0:
+            logging.warning('')
             new_socket.close()
             return
 
@@ -46,6 +54,7 @@ class HttpWebServer(object):
         # 判断是否是动态资源请求，以后把后缀是.html的请求任务是动态资源请求
         if request_path.endswith(".html"):
             """动态资源请求"""
+            logging.info('动态资源请求：' + request_path)
             # 动态资源请求找web框架进行处理，需要把请求参数给web框架
             # 准备给web框架的参数信息，都要放到字典里面
             env = {
@@ -77,6 +86,7 @@ class HttpWebServer(object):
 
         else:
             """静态资源请求"""
+            logging.info('静态资源请求：' + request_path)
             # 1. os.path.exits
             # os.path.exists("static/" + request_path)
             # 2. try-except
@@ -142,7 +152,6 @@ class HttpWebServer(object):
 
 
 def main():
-
     # # 获取终端命令行参数
     # params = sys.argv
     # if len(params) != 2:
@@ -157,14 +166,11 @@ def main():
     # # 代码执行到此，说明命令行参数的个数一定2个并且第二个参数是由数字组成的字符串
     # port = int(params[1])
     # 创建web服务器
-    web_server = HttpWebServer(8000)
+    web_server = HttpWebServer(9000)
     # 启动服务器
     web_server.start()
+
 
 # 判断是否是主模块的代码
 if __name__ == '__main__':
     main()
-
-
-
-
